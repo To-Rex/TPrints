@@ -1,0 +1,2 @@
+APP_NAME = "TPrints"
+APP_VERSION = "1.0.0"
